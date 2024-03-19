@@ -1,0 +1,122 @@
+[
+  {
+    "requestID": "R01",
+    "employeeID": "E01",
+    "requestedAmount": 200,
+    "requestedCurrency": "USD",
+    "approvalStatus": true,
+    "remainingBalance": 1000
+  },
+  {
+    "requestID": "R02",
+    "employeeID": "E02",
+    "requestedAmount": 1000,
+    "requestedCurrency": "ARS",
+    "approvalStatus": true,
+    "remainingBalance": 8500
+  },
+  {
+    "requestID": "R03",
+    "employeeID": "E02",
+    "requestedAmount": 5,
+    "requestedCurrency": "USD",
+    "approvalStatus": true,
+    "remainingBalance": 8000
+  },
+  {
+    "requestID": "R03",
+    "employeeID": "E02",
+    "requestedAmount": 5,
+    "requestedCurrency": "USD",
+    "approvalStatus": true,
+    "remainingBalance": 7500
+  },
+  {
+    "requestID": "R03",
+    "employeeID": "E02",
+    "requestedAmount": 5,
+    "requestedCurrency": "USD",
+    "approvalStatus": true,
+    "remainingBalance": 7000
+  },
+  {
+    "requestID": "R02",
+    "employeeID": "E02",
+    "requestedAmount": 1000,
+    "requestedCurrency": "ARS",
+    "approvalStatus": true,
+    "remainingBalance": 6000
+  },
+  {
+    "requestID": "R02",
+    "employeeID": "E02",
+    "requestedAmount": 1000,
+    "requestedCurrency": "ARS",
+    "approvalStatus": true,
+    "remainingBalance": 5000
+  },
+  {
+    "requestID": "R02",
+    "employeeID": "E02",
+    "requestedAmount": 1000,
+    "requestedCurrency": "ARS",
+    "approvalStatus": true,
+    "remainingBalance": 4000
+  },
+  {
+    "requestID": "R02",
+    "employeeID": "E02",
+    "requestedAmount": 1000,
+    "requestedCurrency": "ARS",
+    "approvalStatus": true,
+    "remainingBalance": 3000
+  },
+  {
+    "requestID": "R02",
+    "employeeID": "E02",
+    "requestedAmount": 1000,
+    "requestedCurrency": "ARS",
+    "approvalStatus": true,
+    "remainingBalance": 2000
+  },
+  {
+    "requestID": "R02",
+    "employeeID": "E02",
+    "requestedAmount": 1000,
+    "requestedCurrency": "ARS",
+    "approvalStatus": true,
+    "remainingBalance": 1000
+  },
+  {
+    "requestID": "R02",
+    "employeeID": "E02",
+    "requestedAmount": 1000,
+    "requestedCurrency": "ARS",
+    "approvalStatus": true,
+    "remainingBalance": 0
+  },
+  {
+    "requestID": "R02",
+    "employeeID": "E02",
+    "requestedAmount": 1000,
+    "requestedCurrency": "ARS",
+    "approvalStatus": false,
+    "remainingBalance": 0
+  },
+  {
+    "requestID": "R02",
+    "employeeID": "E02",
+    "requestedAmount": 1000,
+    "requestedCurrency": "ARS",
+    "approvalStatus": false,
+    "remainingBalance": 0
+  },
+  {
+    "requestID": "R02",
+    "employeeID": "E02",
+    "requestedAmount": 1000,
+    "requestedCurrency": "ARS",
+    "approvalStatus": false,
+    "remainingBalance": 0
+  }
+]
